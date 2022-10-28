@@ -1,1 +1,1 @@
-# Project-166-sol
+pip install opencv-python
